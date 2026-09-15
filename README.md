@@ -22,21 +22,21 @@ Exploring how computers work from the **hardware level up** -- developing for cl
 ## Languages
 
 <p>
-  <img src="https://img.shields.io/badge/-C-03599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge" alt="Assembly">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE">
+  <img src="images/c.svg" alt="C">
+  <img src="images/cpp.svg" alt="C++">
+  <img src="images/assembly.svg" alt="Assembly">
+  <img src="images/python.svg" alt="Python">
+  <img src="images/arduino_ide.svg" alt="Arduino IDE">
 </p>
 
 ## Tools & Platforms
 
 <p>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
+  <img src="images/git.svg" alt="Git">
+  <img src="images/github.svg" alt="GitHub">
+  <img src="images/linux.svg" alt="Linux">
+  <img src="images/arduino.svg" alt="Arduino">
+  <img src="images/esp32.svg" alt="ESP32">
 </p>
 
 ---
