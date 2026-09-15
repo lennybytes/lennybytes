@@ -19,15 +19,25 @@ Exploring how computers work from the **hardware level up** -- developing for cl
 
 ---
 
-## Tech Stack
+## Languages
 
-| Languages & Tools | Platforms & Hardware |
-|---|---|
-| ![](https://img.shields.io/badge/-C-03599C?logo=c&logoColor=white) | ![](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) |
-| ![](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) | ![](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) |
-| ![](https://img.shields.io/badge/-Assembly-6E4C13) | ![](https://img.shields.io/badge/-ESP32-000000?logo=espressif&logoColor=white) |
-| ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
-| ![](https://img.shields.io/badge/-Arduino_IDE-00979D?logo=arduino&logoColor=white) | ![](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) |
+<p>
+  <img src="https://img.shields.io/badge/-C-03599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge" alt="Assembly">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE">
+</p>
+
+## Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
+</p>
 
 ---
 
