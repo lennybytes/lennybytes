@@ -27,6 +27,7 @@ Exploring how computers work from the **hardware level up** -- developing for cl
   <img src="images/cpp.svg" alt="C++">
   <img src="images/assembly.svg" alt="Assembly">
   <img src="images/python.svg" alt="Python">
+  <img src="images/rust.svg" alt="Rust">
   <img src="images/arduino_ide.svg" alt="Arduino IDE">
 </p>
 
@@ -39,6 +40,7 @@ Exploring how computers work from the **hardware level up** -- developing for cl
   <img src="images/arduino.svg" alt="Arduino">
   <img src="images/esp32.svg" alt="ESP32">
   <img src="images/docker.svg" alt="Docker">
+  <img src="images/vscodium.svg" alt="VSCodium">
 </p>
 
 ---
