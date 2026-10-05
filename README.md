@@ -13,6 +13,7 @@ Exploring how computers work from the **hardware level up** -- developing for cl
 - Working with **microcontrollers** like ESP32 and Arduino for embedded projects
 - Writing small **automation scripts in Python** to streamline workflows and server tasks
 - Hands-on experience **managing and working with Linux servers**
+- **Self-hosting services in my homelab with Docker** -- containers, Compose stacks and automated deployments
 - Exploring **CPU architectures, registers, memory, interrupts and hardware**
 - Interested in how software communicates directly with hardware with minimal abstraction
 - Learning how computers work from **machine code -> Assembly -> C -> higher-level software**
@@ -37,6 +38,7 @@ Exploring how computers work from the **hardware level up** -- developing for cl
   <img src="images/linux.svg" alt="Linux">
   <img src="images/arduino.svg" alt="Arduino">
   <img src="images/esp32.svg" alt="ESP32">
+  <img src="images/docker.svg" alt="Docker">
 </p>
 
 ---
@@ -77,6 +79,18 @@ Understanding how each platform handles:
 
 ---
 
+## Self-Hosting & Homelab
+
+Running my own services at home instead of relying on cloud providers:
+
+- Hosting services in my **homelab with Docker** -- containers, volumes and networks managed with **Docker Compose**
+- Writing **dockerized services** in C, Python and shell and shipping them as lightweight images
+- Self-hosting tools I use daily -- file storage, dashboards, automation and internal web services
+- Keeping data on **my own hardware**, learning how the stack works from the host up
+- Automating deployments, updates and backups with scripts on my Linux server
+
+---
+
 ## Projects
 
 - C and Assembly experiments
@@ -85,6 +99,7 @@ Understanding how each platform handles:
 - Embedded programming (ESP32, Arduino)
 - Python automation scripts
 - Server-side tooling
+- Self-hosted Docker services for my homelab
 
 ---
 
@@ -95,9 +110,10 @@ Understanding how each platform handles:
 - Develop polished **NES, Nintendo DS and Wii software**
 - Build robust **embedded systems** with real-world applications
 - Write practical **automation tools** in Python
+- Run a reliable **self-hosted homelab** with Docker and Compose
 - Understand memory, registers, interrupts and hardware with minimal abstraction
 - Eventually write software that interacts directly with hardware from **machine code up**
 
 ---
 
-> **Focus:** Low-level programming, embedded systems, retro console development, server automation, and understanding computers from the hardware up.
+> **Focus:** Low-level programming, embedded systems, retro console development, server automation, self-hosting with Docker, and understanding computers from the hardware up.
